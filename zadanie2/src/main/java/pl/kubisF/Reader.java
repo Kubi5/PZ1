@@ -11,24 +11,28 @@ public class Reader extends Thread{
 
     public void run(){
         while(true) {
-            for (int i = 0; i < 10; i++) {
-                System.out.println(this.getName() + " wants to read");
-                r.startReading();
                 try {
-                    System.out.println(this.getName() + " is reading");
                     Thread.sleep(4000);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
-                System.out.println(this.getName() + " ends reading");
+                System.out.println("--WANTS-- " + this.getName() + " wants to read");
+                r.startReading();
+                try {
+                    System.out.println("--ACTION IN READING ROOM-- " + this.getName() + " is reading");
+                    Thread.sleep(4000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+                try {
+                    Thread.sleep(4000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+                System.out.println("--END-- " + this.getName() + " ends reading");
                 r.endReading();
             }
-            try {
-                Thread.sleep(4000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-        }
+
     }
 
 }
