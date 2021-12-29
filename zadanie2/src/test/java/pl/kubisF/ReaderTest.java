@@ -1,15 +1,22 @@
 package pl.kubisF;
 import org.junit.*;
+
+import java.io.ByteArrayOutputStream;
+import java.io.PrintStream;
+
 import static org.junit.Assert.*;
 
 public class ReaderTest {
     private String test;
     private ReadingRoom readingRoom;
+    private final PrintStream standardOut = System.out;
+    private final ByteArrayOutputStream outputStreamCaptor = new ByteArrayOutputStream();
 
     @Before
     public void setUp(){
         readingRoom = new Resource();
         test = "Name test";
+        System.setOut(new PrintStream(outputStreamCaptor));
     }
 
     @Test
@@ -17,6 +24,25 @@ public class ReaderTest {
         Reader r = new Reader("Name test",readingRoom);
         assertEquals(r.getName(),test);
     }
+
+    @Test
+    public void testTime(){
+        Reader reader = new Reader("SIMEA",readingRoom);
+        long startTime = System.nanoTime();
+        reader.start();
+        long endTime = System.nanoTime();
+        long timeElapsed = endTime - startTime;
+        assertTrue(timeElapsed/1000000 < 10000);
+    }
+
+    @Test
+    public void StringsTest() {
+        Reader reader = new Reader("SIMEA",readingRoom);
+        reader.start();
+        Assert.assertEquals("", outputStreamCaptor.toString().trim());
+
+    }
+
 
 
 }

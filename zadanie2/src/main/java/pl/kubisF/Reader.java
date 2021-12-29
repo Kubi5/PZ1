@@ -14,7 +14,7 @@ public class Reader extends Thread{
                 try {
                     Thread.sleep(4000);
                 } catch (InterruptedException e) {
-                    e.printStackTrace();
+                   // Thread.currentThread().interrupt();
                 }
                 System.out.println("--WANTS-- " + this.getName() + " wants to read");
                 r.startReading();
@@ -22,12 +22,12 @@ public class Reader extends Thread{
                     System.out.println("--ACTION IN READING ROOM-- " + this.getName() + " is reading");
                     Thread.sleep(4000);
                 } catch (InterruptedException e) {
-                    e.printStackTrace();
+                    //Thread.currentThread().interrupt();
                 }
                 try {
                     Thread.sleep(4000);
                 } catch (InterruptedException e) {
-                    e.printStackTrace();
+                    //Thread.currentThread().interrupt();
                 }
                 System.out.println("--END-- " + this.getName() + " ends reading");
                 r.endReading();

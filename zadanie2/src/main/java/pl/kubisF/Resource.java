@@ -4,9 +4,9 @@ import java.security.SecureRandom;
 import java.util.Random;
 
 public class Resource implements ReadingRoom{
-private int writers_number;
-private int readers_number;
-private int writers_waiting;
+public int writers_number;
+public int readers_number;
+public int writers_waiting;
 private boolean is_writers_turn = true;
 SecureRandom random = new SecureRandom();
 
@@ -15,7 +15,7 @@ SecureRandom random = new SecureRandom();
             try{
                 wait();
             } catch (InterruptedException e) {
-            e.printStackTrace();
+               // Thread.currentThread().interrupt();
             }
         }
 
@@ -38,7 +38,7 @@ SecureRandom random = new SecureRandom();
             try{
                 wait();
             } catch (InterruptedException e) {
-                e.printStackTrace();
+                //Thread.currentThread().interrupt();
             }
         }
         writers_waiting--;

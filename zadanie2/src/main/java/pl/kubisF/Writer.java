@@ -15,7 +15,7 @@ public class Writer extends Thread{
                 try {
                     Thread.sleep(4000);
                 } catch (InterruptedException e) {
-                    e.printStackTrace();
+                   // Thread.currentThread().interrupt();
                 }
                 System.out.println("--WANTS-- " +this.getName() + " wants to write");
                 r.startWriting();
@@ -23,20 +23,15 @@ public class Writer extends Thread{
                     System.out.println("--ACTION IN READING ROOM-- " + this.getName() + " is writing");
                     Thread.sleep(4000);
                 } catch (InterruptedException e) {
-                    e.printStackTrace();
+                   // Thread.currentThread().interrupt();
                 }
                 try {
                     Thread.sleep(4000);
                 } catch (InterruptedException e) {
-                    e.printStackTrace();
+                   // Thread.currentThread().interrupt();
                 }
                 System.out.println("--END-- " + this.getName() + " ends writing");
                 r.endWriting();
-            try {
-                Thread.sleep(4000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
         }
     }
 }

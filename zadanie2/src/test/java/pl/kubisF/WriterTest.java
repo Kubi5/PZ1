@@ -17,5 +17,15 @@ public class WriterTest {
         assertEquals(w.getName(),test);
     }
 
+    @Test
+    public void testTime(){
+        Writer w = new Writer("SIMEA",readingRoom);
+        long startTime = System.nanoTime();
+        w.start();
+        long endTime = System.nanoTime();
+        long timeElapsed = endTime - startTime;
+        assertTrue(timeElapsed/1000000 < 10000);
+    }
+
 
 }
