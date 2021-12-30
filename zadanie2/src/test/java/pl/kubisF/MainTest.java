@@ -16,10 +16,16 @@ public class MainTest {
     }
 
     @Test
+    public void shouldCreateMainObject(){
+        Main main = new Main();
+        assertNotNull("Main method called.", main);
+    }
+
+    @Test
     public void isMainWorks(){
         Main m = new Main();
-        assertEquals(writer.getName(),"Writer");
-        assertEquals(reader.getName(),"Reader");
+        assertEquals("Writer", writer.getName());
+        assertEquals("Reader", reader.getName());
     }
 
 }

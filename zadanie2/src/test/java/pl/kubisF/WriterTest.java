@@ -27,12 +27,5 @@ public class WriterTest {
         assertTrue(timeElapsed/1000000 < 10000);
     }
 
-    @Test
-    public void isThreadSleeping(){
-        Writer w = new Writer("SIMEA",readingRoom);
-        w.start();
-        assertEquals(Thread.State.RUNNABLE,w.getState());
-    }
-
 
 }

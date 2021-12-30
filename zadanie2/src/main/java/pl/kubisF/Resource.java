@@ -3,8 +3,11 @@ package pl.kubisF;
 import lombok.SneakyThrows;
 
 import java.security.SecureRandom;
-import java.util.Random;
 
+/** Resource is a class which implements ReadingRoom interface and have all attributes which
+ * are necessary in algorithm which handle all the rules in ReadingRoom - in one moment
+ * in ReadingRoom can be only one writer or up to 5 readers.
+  */
 public class Resource implements ReadingRoom{
 public int writers_number;
 public int readers_number;
@@ -13,7 +16,8 @@ private boolean is_writers_turn = true;
 SecureRandom random = new SecureRandom();
 
     @SneakyThrows
-    synchronized public void startReading(){
+    /** This method have a logic when is possible to reader to read and etc. */
+    public synchronized void startReading(){
         while(writers_number > 0 || (writers_waiting > 0 && is_writers_turn) || readers_number == 5){
                 wait();
         }
@@ -24,13 +28,15 @@ SecureRandom random = new SecureRandom();
         readers_number++;
     }
 
-    synchronized  public void endReading(){
+    /** This method simply decrease the number of readers in ReadingRoom */
+    public synchronized void endReading(){
         readers_number--;
         notifyAll();
     }
 
     @SneakyThrows
-    synchronized public void startWriting(){
+    /** This method have a logic when is possible to writer to write and etc. */
+    public synchronized void startWriting(){
         writers_waiting++;
         while(readers_number > 0 || writers_number > 0){
                 wait();
@@ -38,8 +44,9 @@ SecureRandom random = new SecureRandom();
         writers_waiting--;
         writers_number++;
     }
-
-    synchronized public void endWriting(){
+    /** This method simply decrease the number of writers in ReadingRoom
+     * and changing flag is_writers_turn */
+    public synchronized void endWriting(){
         is_writers_turn = false;
         writers_number--;
         notifyAll();

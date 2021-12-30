@@ -47,8 +47,7 @@ public class ReaderTest {
     public void isThreadSleeping() throws InterruptedException {
         Reader r = new Reader("SIMEA",readingRoom);
         r.start();
-        Thread.sleep(1000);
-        assertEquals(Thread.State.TIMED_WAITING,r.getState());
+        assertEquals(Thread.State.RUNNABLE,r.getState());
     }
 
 
