@@ -1,7 +1,7 @@
 package pl.kubisF;
 import org.junit.*;
 import static org.junit.Assert.*;
-
+/** This class simply testing Writer class */
 public class WriterTest {
     private String test;
     private ReadingRoom readingRoom;

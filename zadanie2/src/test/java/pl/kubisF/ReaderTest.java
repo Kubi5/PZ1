@@ -5,7 +5,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
 import static org.junit.Assert.*;
-
+/** This class simply testing Reader class */
 public class ReaderTest {
     private String test;
     private ReadingRoom readingRoom;

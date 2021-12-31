@@ -8,6 +8,9 @@ import java.util.logging.Logger;
 public class Reader extends Thread{
     private final ReadingRoom r;
     private static final Logger LOGGER = Logger.getLogger( Reader.class.getName() );
+    private final String wantsRead = String.format("--WANTS-- %s wants to read",this.getName());
+    private final String reading =  String.format("--ACTION IN READING ROOM-- %s is reading",this.getName());
+    private final String finishedReading = String.format("--END-- %s finished reading",this.getName());
 
     Reader(String name, ReadingRoom r){
         super(name);
@@ -19,12 +22,12 @@ public class Reader extends Thread{
     public void run(){
         while(true){
             Thread.sleep(4000);
-            LOGGER.log(Level.INFO, "--WANTS-- " + this.getName() + " wants to read");
+            LOGGER.log(Level.INFO, wantsRead);
             r.startReading();
             Thread.sleep(4000);
-            LOGGER.log(Level.INFO, "--ACTION IN READING ROOM-- " + this.getName() + " is reading");
+            LOGGER.log(Level.INFO, reading);
             Thread.sleep(4000);
-            LOGGER.log(Level.INFO, "--END-- " + this.getName() + " ends reading");
+            LOGGER.log(Level.INFO, finishedReading);
             r.endReading();
             }
 

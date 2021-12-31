@@ -2,7 +2,7 @@ package pl.kubisF;
 
 import org.junit.*;
 import static org.junit.Assert.*;
-
+/** This class simply testing ReadingRoom class */
 public class ReadingRoomTest {
     Resource resource = new Resource();
 
