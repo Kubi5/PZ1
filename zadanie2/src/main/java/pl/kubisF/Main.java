@@ -8,6 +8,6 @@ public class Main {
 
     for(int i = 0; i<3; i++) new Writer("Writer " + (i+1),r).start();
     for(int i = 0; i<10; i++) new Reader("Reader " + (i+1),r).start();
-
+    new Display().start();
     }
 }

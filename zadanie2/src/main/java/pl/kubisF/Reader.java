@@ -2,6 +2,7 @@ package pl.kubisF;
 
 import lombok.SneakyThrows;
 
+import java.security.SecureRandom;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 /** Reader class - it's a thread with reader's allowance to ReadingRoom */
@@ -11,6 +12,7 @@ public class Reader extends Thread{
     private final String wantsRead = String.format("--WANTS-- %s wants to read",this.getName());
     private final String reading =  String.format("--ACTION IN READING ROOM-- %s is reading",this.getName());
     private final String finishedReading = String.format("--END-- %s finished reading",this.getName());
+    SecureRandom random = new SecureRandom();
 
     Reader(String name, ReadingRoom r){
         super(name);
@@ -21,12 +23,12 @@ public class Reader extends Thread{
     /** Reader's run method contain his logs in ReadingRoom */
     public void run(){
         while(true){
-            Thread.sleep(4000);
+            Thread.sleep(5000);
             LOGGER.log(Level.INFO, wantsRead);
             r.startReading();
-            Thread.sleep(4000);
+            Thread.sleep((random.nextInt(2)+1)*(long)1000);
             LOGGER.log(Level.INFO, reading);
-            Thread.sleep(4000);
+            Thread.sleep(5000);
             LOGGER.log(Level.INFO, finishedReading);
             r.endReading();
             }

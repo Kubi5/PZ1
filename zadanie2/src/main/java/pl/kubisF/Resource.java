@@ -3,21 +3,24 @@ package pl.kubisF;
 import lombok.SneakyThrows;
 
 import java.security.SecureRandom;
+import java.util.logging.Logger;
 
 /** Resource is a class which implements ReadingRoom interface and have all attributes which
  * are necessary in algorithm which handle all the rules in ReadingRoom - in one moment
  * in ReadingRoom can be only one writer or up to 5 readers.
   */
 public class Resource implements ReadingRoom{
-public int writers_number;
-public int readers_number;
-public int writers_waiting;
+public static int writers_number;
+public static int readers_number;
+public static int writers_waiting;
+public static int readers_waiting;
 private boolean is_writers_turn = true;
 SecureRandom random = new SecureRandom();
 
     @SneakyThrows
     /** This method have a logic when is possible to reader to read and etc. */
     public synchronized void startReading(){
+        readers_waiting++;
         while(writers_number > 0 || (writers_waiting > 0 && is_writers_turn) || readers_number == 5){
                 wait();
         }
@@ -25,6 +28,7 @@ SecureRandom random = new SecureRandom();
         if(value == 0) {
             is_writers_turn = true;
         }
+        readers_waiting--;
         readers_number++;
     }
 
