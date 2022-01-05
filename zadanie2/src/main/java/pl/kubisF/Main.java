@@ -1,6 +1,6 @@
 package pl.kubisF;
 
-/** Simply main class which create writer and reader objects and is running them */
+/** Simply main class which create writer and reader objects (with display) and is running them */
 public class Main {
     public static void main(String []args) {
 

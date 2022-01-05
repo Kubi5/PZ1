@@ -10,8 +10,8 @@ public class Display extends Thread{
     public void run(){
         while(true) {
             sleep(6000);
-            LOGGER.info(String.format("INFO:------CURRENTlY THERE ARE/IS %d writer and %d readers in reading room------", Resource.writers_number, Resource.readers_number));
-            LOGGER.info(String.format("INFO:------%d writers and %d readers are waiting for their turn in queue------", Resource.writers_waiting, Resource.readers_waiting));
+            LOGGER.info(String.format("INFO:------CURRENTlY THERE ARE/IS %d writer and %d readers in reading room------", Resource.writersnumber, Resource.readersnumber));
+            LOGGER.info(String.format("INFO:------%d writers and %d readers are waiting for their turn in queue------", Resource.writerswaiting, Resource.readerswaiting));
         }
     }
 }

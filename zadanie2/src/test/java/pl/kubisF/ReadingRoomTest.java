@@ -8,31 +8,31 @@ public class ReadingRoomTest {
 
     @Test
     public void isStartReadingWorks(){
-        resource.readers_number = 0;
+        resource.readersnumber = 0;
         resource.startReading();
-        assertEquals(1,resource.readers_number);
+        assertEquals(1,resource.readersnumber);
     }
 
     @Test
     public void isStartWritingWorks(){
-        resource.writers_waiting = 0;
-        resource.writers_number = 0;
+        resource.writerswaiting = 0;
+        resource.writersnumber = 0;
         resource.startWriting();
-        assertEquals(1,resource.writers_number);
-        assertEquals(0,resource.writers_waiting);
+        assertEquals(1,resource.writersnumber);
+        assertEquals(0,resource.writerswaiting);
     }
 
     @Test
     public void isEndReadingWorks(){
-        resource.readers_number = 1;
+        resource.readersnumber = 1;
         resource.endReading();
-        assertEquals(0, resource.readers_number);
+        assertEquals(0, resource.readersnumber);
     }
 
     @Test
     public void isEndWritingWorks(){
-        resource.writers_number = 1;
+        resource.writersnumber = 1;
         resource.endWriting();
-        assertEquals(0, resource.writers_number);
+        assertEquals(0, resource.writersnumber);
     }
 }

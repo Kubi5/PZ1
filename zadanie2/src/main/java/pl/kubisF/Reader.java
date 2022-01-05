@@ -1,7 +1,5 @@
 package pl.kubisF;
-
 import lombok.SneakyThrows;
-
 import java.security.SecureRandom;
 import java.util.logging.Level;
 import java.util.logging.Logger;
