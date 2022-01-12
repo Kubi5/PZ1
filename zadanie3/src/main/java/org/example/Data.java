@@ -8,12 +8,12 @@ public class Data {
     String dataSprzedazy;
     String nrFaktury;
     String tytulPozycji;
-    double liczbaSztuk;
-    double cenaJednostkowa;
-    int stawkaPodatku;
-    double kwotaPodatku;
-    double cenaNettopozycji;
-    double cenaBruttopozycji;
-    double cenaNettofakturylacznie;
-    double cenaBruttofakturylacznie;
+    String liczbaSztuk;
+    String cenaJednostkowa;
+    String stawkaPodatku;
+    String kwotaPodatku;
+    String cenaNettopozycji;
+    String cenaBruttopozycji;
+    String cenaNettofakturylacznie;
+    String cenaBruttofakturylacznie;
 }
