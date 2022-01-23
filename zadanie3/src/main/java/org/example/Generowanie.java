@@ -10,13 +10,13 @@ import java.util.ArrayList;
 public class Generowanie {
 
     @XmlElement(name = "Faktura")
-    private ArrayList<Faktura> lista;
+    private ArrayList<FakturaCSV> lista;
 
-    public void setLista(ArrayList<Faktura> lista) {
+    public void setLista(ArrayList<FakturaCSV> lista) {
         this.lista = lista;
     }
 
-    public ArrayList<Faktura> getLista() {
+    public ArrayList<FakturaCSV> getLista() {
         return lista;
     }
 }

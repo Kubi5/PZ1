@@ -20,11 +20,11 @@ public class fromCSVtoXML {
     public fromCSVtoXML() throws IOException {}
     Generowanie g = new Generowanie();
 
-    ArrayList<Faktura> pomocniczaLista = new ArrayList<>();
+    ArrayList<FakturaCSV> pomocniczaLista = new ArrayList<>();
     public void readingData() throws JAXBException {
 
         for (CSVRecord record : records) {
-            Faktura faktura = new Faktura();
+            FakturaCSV faktura = new FakturaCSV();
             faktura.setNazwaOdbiorcy(record.get(0));
             faktura.setAdresOdbiorcy(record.get(1));
             faktura.setNIPOdbiorcy(record.get(2));
@@ -50,6 +50,6 @@ public class fromCSVtoXML {
         JAXBContext context = JAXBContext.newInstance(Generowanie.class);
         Marshaller marshaller = context.createMarshaller();
         marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT,true);
-        marshaller.marshal(g, new File("C:\\Users\\FiFi\\PZ1\\zadanie3\\test.xml"));
+        marshaller.marshal(g, new File("C:\\Users\\FiFi\\PZ1\\zadanie3\\fakturyfromCSV.xml"));
     }
 }
