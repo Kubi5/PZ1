@@ -7,6 +7,7 @@ import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Date;
 
 public class fromCSVtoXML {
     Reader in = new FileReader("C:\\Users\\FiFi\\PZ1\\zadanie3\\faktury-sprzedazowe-test.csv");
