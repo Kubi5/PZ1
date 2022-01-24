@@ -1,31 +1,42 @@
 package org.example;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
-
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Date;
 
 public class fromCSVtoXML {
-    Reader in = new FileReader("C:\\Users\\FiFi\\PZ1\\zadanie3\\faktury-sprzedazowe-test.csv");
+    String stringIn;
+    String stringOut;
+    Reader in;
     //wczytanie pliku CSV
-    Iterable<CSVRecord> records = CSVFormat.EXCEL
-            .withDelimiter('\t')
-            .parse(in);
-
+    Iterable<CSVRecord> records;
+    public ArrayList<Faktura> pomocniczaLista = new ArrayList<>();
     boolean isHeader = true;   //checks if its header
 
-    public fromCSVtoXML() throws IOException {}
-    Generowanie g = new Generowanie();
+    public fromCSVtoXML(String stringIn,String stringOut) throws IOException {
+        this.stringIn = stringIn;
+        this.stringOut = stringOut;
+        in = new FileReader("C:\\Users\\FiFi\\PZ1\\zadanie3\\" + stringIn);
+        records = CSVFormat.EXCEL
+                .withDelimiter('\t')
+                .parse(in);
+    }
+    public ZbiorFaktur zbiorFaktur = new ZbiorFaktur();
 
-    ArrayList<FakturaCSV> pomocniczaLista = new ArrayList<>();
+    public void marshalling() throws JAXBException {
+        JAXBContext context = JAXBContext.newInstance(ZbiorFaktur.class);
+        Marshaller marshaller = context.createMarshaller();
+        marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT,true);
+        marshaller.marshal(zbiorFaktur, new File("C:\\Users\\FiFi\\PZ1\\zadanie3\\" + stringOut));
+    }
+
     public void readingData() throws JAXBException {
 
         for (CSVRecord record : records) {
-            FakturaCSV faktura = new FakturaCSV();
+            Faktura faktura = new Faktura();
             faktura.setNazwaOdbiorcy(record.get(0));
             faktura.setAdresOdbiorcy(record.get(1));
             faktura.setNIPOdbiorcy(record.get(2));
@@ -46,11 +57,7 @@ public class fromCSVtoXML {
             }
             isHeader = false;
         }
-        g.setLista(pomocniczaLista);
-
-        JAXBContext context = JAXBContext.newInstance(Generowanie.class);
-        Marshaller marshaller = context.createMarshaller();
-        marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT,true);
-        marshaller.marshal(g, new File("C:\\Users\\FiFi\\PZ1\\zadanie3\\fakturyfromCSV.xml"));
+        zbiorFaktur.setLista(pomocniczaLista);
+        this.marshalling();
     }
 }

@@ -7,17 +7,16 @@ import java.util.ArrayList;
 
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlRootElement(name="Faktury")
-public class Generowanie {
+public class ZbiorFaktur {
 
     @XmlElement(name = "Faktura")
-    private ArrayList<FakturaCSV> lista;
+    private ArrayList<Faktura> lista;
 
-    public void setLista(ArrayList<FakturaCSV> lista) {
+    public void setLista(ArrayList<Faktura> lista) {
         this.lista = lista;
     }
 
-    public ArrayList<FakturaCSV> getLista() {
+    public ArrayList<Faktura> getLista() {
         return lista;
     }
 }
-

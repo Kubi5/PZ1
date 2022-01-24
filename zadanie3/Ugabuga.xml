@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Faktury>
+    <Faktura>
+        <nazwaOdbiorcy>Firma5 SP. Z O.O.</nazwaOdbiorcy>
+        <adresOdbiorcy>UL. FELIKSA RADWAĹSKIEGO 15/1, 30-065 KRAKĂ“W</adresOdbiorcy>
+        <NIPOdbiorcy>634-27-26-447</NIPOdbiorcy>
+        <dataWystawienia>2020-10-09</dataWystawienia>
+        <dataSprzedazy>2020-10-09</dataSprzedazy>
+        <nrFaktury>3-09/10/2020</nrFaktury>
+        <tytulPozycji>Czynsz z tytuĹ‚u najmu powierzchni w budynku przy ul. RadwaĹ„skiego 15 w Krakowie za PaĹşdziernik 2020</tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>3Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>690,00 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>3Â 000,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>3Â 690,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>3Â 000,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>3Â 690,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma6 SP. Z O.O.</nazwaOdbiorcy>
+        <adresOdbiorcy>UL. FELIKSA RADWAĹSKIEGO 15/1, 30-065 KRAKĂ“W</adresOdbiorcy>
+        <NIPOdbiorcy>676-247-94-12</NIPOdbiorcy>
+        <dataWystawienia>2020-10-09</dataWystawienia>
+        <dataSprzedazy>2020-10-09</dataSprzedazy>
+        <nrFaktury>4-09/10/2020</nrFaktury>
+        <tytulPozycji>Czynsz z tytuĹ‚u najmu powierzchni w budynku przy ul. RadwaĹ„skiego 15 w Krakowie za PaĹşdziernik 2020</tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>7Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>1Â 610,00 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>7Â 000,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>8Â 610,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>7Â 000,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>8Â 610,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma10 Sp. z o.o.</nazwaOdbiorcy>
+        <adresOdbiorcy>UL. PODGĂ“RKI TYNIECKIE 91, 30-398 KRAKĂ“W</adresOdbiorcy>
+        <NIPOdbiorcy>676-256-68-84</NIPOdbiorcy>
+        <dataWystawienia>2020-10-13</dataWystawienia>
+        <dataSprzedazy>2020-10-13</dataSprzedazy>
+        <nrFaktury>1-13/10/2020</nrFaktury>
+        <tytulPozycji>Najem pomieszczeĹ„ biurowych, RadwaĹ„skiego 15, 1 piÄ™tro, 2 miesiÄ…ce.</tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>3Â 774,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>868,02 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>3Â 774,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>4Â 642,02 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>3Â 774,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>4Â 642,02 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-10-14</dataWystawienia>
+        <dataSprzedazy>2020-10-14</dataSprzedazy>
+        <nrFaktury>3-14/10/2020</nrFaktury>
+        <tytulPozycji>1. Prace rozwojowe - #68074 : Lista endpointĂłw</tytulPozycji>
+        <liczbaSztuk>4.75</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>1Â 092,50 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>4Â 750,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>5Â 842,50 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>76Â 250,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>93Â 787,50 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-10-14</dataWystawienia>
+        <dataSprzedazy>2020-10-14</dataSprzedazy>
+        <nrFaktury>3-14/10/2020</nrFaktury>
+        <tytulPozycji>2. Prace rozwojowe - #67995 : Zlecenie UX - sprint 2</tytulPozycji>
+        <liczbaSztuk>55.0</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>12Â 650,00 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>55Â 000,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>67Â 650,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>76Â 250,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>93Â 787,50 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-10-14</dataWystawienia>
+        <dataSprzedazy>2020-10-14</dataSprzedazy>
+        <nrFaktury>3-14/10/2020</nrFaktury>
+        <tytulPozycji>3. Prace rozwojowe - #67996 : Wyszukiwarka z podpowiedziami i Dodatkowa informacja</tytulPozycji>
+        <liczbaSztuk>10.0</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>2Â 300,00 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>10Â 000,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>12Â 300,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>76Â 250,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>93Â 787,50 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-10-14</dataWystawienia>
+        <dataSprzedazy>2020-10-14</dataSprzedazy>
+        <nrFaktury>3-14/10/2020</nrFaktury>
+        <tytulPozycji>4. Prace rozwojowe - #67810 : WysyĹ‚ka maila do handlowca po wykonaniu zadania weryfikacji dowodu rejestracyjnego</tytulPozycji>
+        <liczbaSztuk>0.75</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>172,50 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>750,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>922,50 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>76Â 250,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>93Â 787,50 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-10-14</dataWystawienia>
+        <dataSprzedazy>2020-10-14</dataSprzedazy>
+        <nrFaktury>3-14/10/2020</nrFaktury>
+        <tytulPozycji>5. Prace rozwojowe - #68291 : Modyfikacja parametru obsĹ‚ugi marĹĽy</tytulPozycji>
+        <liczbaSztuk>2.0</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>460,00 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>2Â 000,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>2Â 460,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>76Â 250,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>93Â 787,50 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-10-14</dataWystawienia>
+        <dataSprzedazy>2020-10-14</dataSprzedazy>
+        <nrFaktury>3-14/10/2020</nrFaktury>
+        <tytulPozycji>6. Prace rozwojowe - #68331 : DoĹ‚Ä…cz do nas - projekt graficzny</tytulPozycji>
+        <liczbaSztuk>1.5</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>345,00 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>1Â 500,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>1Â 845,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>76Â 250,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>93Â 787,50 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-10-14</dataWystawienia>
+        <dataSprzedazy>2020-10-14</dataSprzedazy>
+        <nrFaktury>3-14/10/2020</nrFaktury>
+        <tytulPozycji>7. Prace rozwojowe - #68685 : Zmiany w procesie logistycznym (zagadnienia 1-3)</tytulPozycji>
+        <liczbaSztuk>2.25</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>517,50 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>2Â 250,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>2Â 767,50 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>76Â 250,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>93Â 787,50 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>1-15/10/2020</nrFaktury>
+        <tytulPozycji>Zakup serwerĂłw oraz komputerĂłw â€“ jednostek centralnych (klienckich), zgodnie z umowÄ… nr  1/UD/2020 </tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>33Â 739,84 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>7Â 760,16 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>33Â 739,84 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>41Â 500,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>161Â 382,11 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>198Â 500,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>1-15/10/2020</nrFaktury>
+        <tytulPozycji>Zakup drukarki do elektronicznych legitymacji, zgodnie z umowÄ… nr  1/UD/2020 </tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>21Â 951,22 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>5Â 048,78 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>21Â 951,22 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>27Â 000,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>161Â 382,11 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>198Â 500,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>1-15/10/2020</nrFaktury>
+        <tytulPozycji>WdroĹĽenie poszczegĂłlnych moduĹ‚Ăłw wraz zakupem oprogramowania, zgodnie z umowÄ… nr  1/UD/2020 </tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>22Â 764,23 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>5Â 235,77 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>22Â 764,23 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>28Â 000,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>161Â 382,11 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>198Â 500,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>1-15/10/2020</nrFaktury>
+        <tytulPozycji>Migracja danych do nowego systemu, zgodnie z umowÄ… nr  1/UD/2020 </tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>26Â 829,27 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>6Â 170,73 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>26Â 829,27 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>33Â 000,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>161Â 382,11 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>198Â 500,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>1-15/10/2020</nrFaktury>
+        <tytulPozycji>WdroĹĽenie systemu â€“ oprogramowanie do obsĹ‚ugi systemĂłw, zgodnie z umowÄ… nr  1/UD/2020 </tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>17Â 886,18 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>4Â 113,82 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>17Â 886,18 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>22Â 000,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>161Â 382,11 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>198Â 500,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>1-15/10/2020</nrFaktury>
+        <tytulPozycji>Szkolenia dla kadry i pracownikĂłw wdraĹĽanych komponentĂłw Systemu USOS, zgodnie z umowÄ… nr  1/UD/2020 </tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>23Â 577,24 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>5Â 422,76 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>23Â 577,24 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>29Â 000,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>161Â 382,11 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>198Â 500,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>1-15/10/2020</nrFaktury>
+        <tytulPozycji>ObsĹ‚uga administracyjna, zgodnie z umowÄ… nr  1/UD/2020 </tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>14Â 634,15 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>3Â 365,85 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>14Â 634,15 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>18Â 000,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>161Â 382,11 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>198Â 500,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>2-15/10/2020</nrFaktury>
+        <tytulPozycji>WdroĹĽenie systemu ksztaĹ‚cenia na odlegĹ‚oĹ›Ä‡ - unowoczeĹ›nienie platformy e-learningowej, zgodnie z umowÄ… nr 4/UD/2020</tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>31Â 707,32 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>7Â 292,68 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>31Â 707,32 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>39Â 000,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>48Â 739,84 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>59Â 950,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>2-15/10/2020</nrFaktury>
+        <tytulPozycji>WdroĹĽenie systemu ksztaĹ‚cenia na odlegĹ‚oĹ›Ä‡ â€“ e-learning - szkolenia dla pracownikĂłw, zgodnie z umowÄ… nr 4/UD/2020</tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>10Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>2Â 300,00 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>10Â 000,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>12Â 300,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>48Â 739,84 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>59Â 950,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>2-15/10/2020</nrFaktury>
+        <tytulPozycji>WdroĹĽenie systemu ksztaĹ‚cenia na odlegĹ‚oĹ›Ä‡ - e-learning â€“ serwer wirtualny, zgodnie z umowÄ… nr 4/UD/2020</tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>2Â 032,52 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>467,48 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>2Â 032,52 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>2Â 500,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>48Â 739,84 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>59Â 950,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>2-15/10/2020</nrFaktury>
+        <tytulPozycji>WdroĹĽenie systemu ksztaĹ‚cenia na odlegĹ‚oĹ›Ä‡ - e-learning  - implementacja kursĂłw na platformÄ™, zgodnie z umowÄ… nr 4/UD/2020</tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>5Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>1Â 150,00 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>5Â 000,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>6Â 150,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>48Â 739,84 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>59Â 950,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>3-15/10/2020</nrFaktury>
+        <tytulPozycji>Komputer wraz z systemem operacyjnym, zgodnie z umowÄ… nr 1/PK/2020</tytulPozycji>
+        <liczbaSztuk>24.0</liczbaSztuk>
+        <cenaJednostkowa>6Â 351,63 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>35Â 060,98 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>152Â 439,02 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>187Â 500,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>173Â 983,74 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>214Â 000,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>3-15/10/2020</nrFaktury>
+        <tytulPozycji>Oprogramowanie sprzedaĹĽowe, zgodnie z umowÄ… nr 1/PK/2020</tytulPozycji>
+        <liczbaSztuk>24.0</liczbaSztuk>
+        <cenaJednostkowa>406,50 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>2Â 243,90 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>9Â 756,10 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>12Â 000,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>173Â 983,74 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>214Â 000,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>3-15/10/2020</nrFaktury>
+        <tytulPozycji>Oprogramowanie finansowo â€“ ksiÄ™gowe, zgodnie z umowÄ… nr 1/PK/2020</tytulPozycji>
+        <liczbaSztuk>24.0</liczbaSztuk>
+        <cenaJednostkowa>406,50 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>2Â 243,90 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>9Â 756,10 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>12Â 000,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>173Â 983,74 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>214Â 000,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>3-15/10/2020</nrFaktury>
+        <tytulPozycji>Router, zgodnie z umowÄ… nr 1/PK/2020</tytulPozycji>
+        <liczbaSztuk>2.0</liczbaSztuk>
+        <cenaJednostkowa>406,51 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>186,99 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>813,01 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>1Â 000,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>173Â 983,74 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>214Â 000,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>3-15/10/2020</nrFaktury>
+        <tytulPozycji>Switch, zgodnie z umowÄ… nr 1/PK/2020</tytulPozycji>
+        <liczbaSztuk>2.0</liczbaSztuk>
+        <cenaJednostkowa>528,46 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>243,09 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>1Â 056,91 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>1Â 300,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>173Â 983,74 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>214Â 000,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>3-15/10/2020</nrFaktury>
+        <tytulPozycji>Okablowanie (2m), zgodnie z umowÄ… nr 1/PK/2020</tytulPozycji>
+        <liczbaSztuk>28.0</liczbaSztuk>
+        <cenaJednostkowa>2,90 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>18,70 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>81,30 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>100,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>173Â 983,74 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>214Â 000,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-15</dataWystawienia>
+        <dataSprzedazy>2020-10-15</dataSprzedazy>
+        <nrFaktury>3-15/10/2020</nrFaktury>
+        <tytulPozycji>Okablowanie (1,5m), zgodnie z umowÄ… nr 1/PK/2020</tytulPozycji>
+        <liczbaSztuk>24.0</liczbaSztuk>
+        <cenaJednostkowa>3,39 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>18,70 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>81,30 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>100,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>173Â 983,74 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>214Â 000,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-10-16</dataWystawienia>
+        <dataSprzedazy>2020-10-16</dataSprzedazy>
+        <nrFaktury>1-16/10/2020</nrFaktury>
+        <tytulPozycji>Informatyczne narzÄ™dzia edukacyjne</tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>1Â 268,29 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>291,71 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>1Â 268,29 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>1Â 560,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>1Â 268,29 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>1Â 560,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma9 SP. Z O.O.</nazwaOdbiorcy>
+        <adresOdbiorcy>ul. Dobra 28, 00-344 Warszawa</adresOdbiorcy>
+        <NIPOdbiorcy>118-16-48-603</NIPOdbiorcy>
+        <dataWystawienia>2020-11-05</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>1-05/11/2020</nrFaktury>
+        <tytulPozycji>NAJEM SERWERA ZA OKRES 10.2020 (SPECYFIKACJA ZGODNA Z UMOWÄ„)   </tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>13Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>2Â 990,00 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>13Â 000,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>15Â 990,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>13Â 000,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>15Â 990,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma3 sp. z o.o.</nazwaOdbiorcy>
+        <adresOdbiorcy>ul. Krkusowa 12, 30-123 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>675-152-93-71</NIPOdbiorcy>
+        <dataWystawienia>2020-11-05</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>2-05/11/2020</nrFaktury>
+        <tytulPozycji>ZarzÄ…dzanie infrastrukturÄ… serwerowÄ… oraz usĹ‚ugami dla projektu Innovative- ZGODNIE Z RAPORTEM</tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>3Â 909,38 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>899,16 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>3Â 909,38 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>4Â 808,54 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>3Â 909,38 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>4Â 808,54 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma4</nazwaOdbiorcy>
+        <adresOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNĂ“W</adresOdbiorcy>
+        <NIPOdbiorcy>873-171-75-73</NIPOdbiorcy>
+        <dataWystawienia>2020-11-05</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>3-05/11/2020</nrFaktury>
+        <tytulPozycji>UrzÄ…dzenia GPS â€“ terminale/montaĹĽ â€“ paĹşdziernik 2020 zgodnie z zaĹ‚Ä…cznikiem </tytulPozycji>
+        <liczbaSztuk>63.0</liczbaSztuk>
+        <cenaJednostkowa>280,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>4Â 057,20 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>17Â 640,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>21Â 697,20 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>17Â 640,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>21Â 697,20 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma3 sp. z o.o.</nazwaOdbiorcy>
+        <adresOdbiorcy>ul. Krkusowa 12, 30-123 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>675-152-93-71</NIPOdbiorcy>
+        <dataWystawienia>2020-11-09</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>1-09/11/2020</nrFaktury>
+        <tytulPozycji>Firma3 - prace projektowe oraz programistyczne zwiÄ…zane z rozwojem, zgodne z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>83.6375</liczbaSztuk>
+        <cenaJednostkowa>1Â 250,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>22Â 895,78 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>99Â 546,88 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>122Â 442,66 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>112Â 386,88 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>138Â 235,86 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma3 sp. z o.o.</nazwaOdbiorcy>
+        <adresOdbiorcy>ul. Krkusowa 12, 30-123 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>675-152-93-71</NIPOdbiorcy>
+        <dataWystawienia>2020-11-09</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>1-09/11/2020</nrFaktury>
+        <tytulPozycji>ZarzÄ…dzanie infrastrukturÄ… serwerowÄ… oraz usĹ‚ugami dla projektu Firma3 â€“ Premium</tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>7Â 840,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>1Â 803,20 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>7Â 840,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>9Â 643,20 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>112Â 386,88 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>138Â 235,86 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma3 sp. z o.o.</nazwaOdbiorcy>
+        <adresOdbiorcy>ul. Krkusowa 12, 30-123 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>675-152-93-71</NIPOdbiorcy>
+        <dataWystawienia>2020-11-09</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>1-09/11/2020</nrFaktury>
+        <tytulPozycji>Firma3 - prace projektowe oraz programistyczne zwiÄ…zane z utrzymaniem i poprawÄ… bĹ‚Ä™dĂłw oraz bieĹĽÄ…cymi dziaĹ‚aniami,  zgodne z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>4.0</liczbaSztuk>
+        <cenaJednostkowa>1Â 250,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>1Â 150,00 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>5Â 000,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>6Â 150,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>112Â 386,88 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>138Â 235,86 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma3 sp. z o.o.</nazwaOdbiorcy>
+        <adresOdbiorcy>ul. Krkusowa 12, 30-123 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>675-152-93-71</NIPOdbiorcy>
+        <dataWystawienia>2020-11-09</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>2-09/11/2020</nrFaktury>
+        <tytulPozycji>Innovative - prace projektowe oraz programistyczne zwiÄ…zane z rozwojem, zgodnie z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>12.1875</liczbaSztuk>
+        <cenaJednostkowa>1Â 250,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>3Â 503,91 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>15Â 234,38 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>18Â 738,29 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>23Â 359,38 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>28Â 732,04 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma3 sp. z o.o.</nazwaOdbiorcy>
+        <adresOdbiorcy>ul. Krkusowa 12, 30-123 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>675-152-93-71</NIPOdbiorcy>
+        <dataWystawienia>2020-11-09</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>2-09/11/2020</nrFaktury>
+        <tytulPozycji>Innovative - prace projektowe oraz programistyczne zwiÄ…zane z utrzymaniem i poprawÄ… bĹ‚Ä™dĂłw oraz bieĹĽÄ…cymi dziaĹ‚aniami,  zgodnie z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>6.5</liczbaSztuk>
+        <cenaJednostkowa>1Â 250,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>1Â 868,75 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>8Â 125,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>9Â 993,75 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>23Â 359,38 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>28Â 732,04 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma3 sp. z o.o.</nazwaOdbiorcy>
+        <adresOdbiorcy>ul. Krkusowa 12, 30-123 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>675-152-93-71</NIPOdbiorcy>
+        <dataWystawienia>2020-11-12</dataWystawienia>
+        <dataSprzedazy>2020-11-12</dataSprzedazy>
+        <nrFaktury>1-12/11/2020</nrFaktury>
+        <tytulPozycji>Faktura korygujÄ…ca, korekta dotyczy fv nr 2-09/11/2020 przyczyna korkty bĹ‚Ä™dna kwota w pozycji nr 2 â€“ RĂłĹĽnica do zwrotu - Innovative - prace projektowe oraz programistyczne zwiÄ…zane z rozwojem, zgodnie z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>-0.8125</liczbaSztuk>
+        <cenaJednostkowa>1Â 250,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>-233,59 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>-1Â 015,62 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>-1Â 249,21 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>-1Â 015,62 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>-1Â 249,21 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma8 Sp. z o.o. sp.k.</nazwaOdbiorcy>
+        <adresOdbiorcy>ul. Krkusowa 12, 30-123 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>677-00-46-633</NIPOdbiorcy>
+        <dataWystawienia>2020-11-10</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>1-10/11/2020</nrFaktury>
+        <tytulPozycji>Firma8 - prace projektowe oraz programistyczne, zgodnie z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>26.475</liczbaSztuk>
+        <cenaJednostkowa>1Â 250,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>7Â 611,56 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>33Â 093,75 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>40Â 705,31 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>33Â 093,75 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>40Â 705,31 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma5 SP. Z O.O.</nazwaOdbiorcy>
+        <adresOdbiorcy>UL. FELIKSA RADWAĹSKIEGO 15/1, 30-065 KRAKĂ“W</adresOdbiorcy>
+        <NIPOdbiorcy>634-27-26-447</NIPOdbiorcy>
+        <dataWystawienia>2020-11-10</dataWystawienia>
+        <dataSprzedazy>2020-11-10</dataSprzedazy>
+        <nrFaktury>2-10/11/2020</nrFaktury>
+        <tytulPozycji>Czynsz z tytuĹ‚u najmu powierzchni w budynku przy ul. RadwaĹ„skiego 15 w Krakowie za Listopad 2020</tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>3Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>690,00 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>3Â 000,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>3Â 690,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>3Â 000,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>3Â 690,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma6 SP. Z O.O.</nazwaOdbiorcy>
+        <adresOdbiorcy>UL. FELIKSA RADWAĹSKIEGO 15/1, 30-065 KRAKĂ“W</adresOdbiorcy>
+        <NIPOdbiorcy>676-247-94-12</NIPOdbiorcy>
+        <dataWystawienia>2020-11-10</dataWystawienia>
+        <dataSprzedazy>2020-11-10</dataSprzedazy>
+        <nrFaktury>3-10/11/2020</nrFaktury>
+        <tytulPozycji>Czynsz z tytuĹ‚u najmu powierzchni w budynku przy ul. RadwaĹ„skiego 15 w Krakowie za Listopad 2020</tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>7Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>1Â 610,00 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>7Â 000,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>8Â 610,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>7Â 000,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>8Â 610,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma4</nazwaOdbiorcy>
+        <adresOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNĂ“W</adresOdbiorcy>
+        <NIPOdbiorcy>873-171-75-73</NIPOdbiorcy>
+        <dataWystawienia>2020-11-13</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>1-13/11/2020</nrFaktury>
+        <tytulPozycji>Abonament â€“ aktywne karty SIM zgodnie z zaĹ‚Ä…cznikiem </tytulPozycji>
+        <liczbaSztuk>472.9337</liczbaSztuk>
+        <cenaJednostkowa>7,50 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>815,81 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>3Â 547,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>4Â 362,81 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>3Â 547,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>4Â 362,81 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma2</nazwaOdbiorcy>
+        <adresOdbiorcy>Ul. Zamkowa 1, 31 â€“ 200 KrakĂłw </adresOdbiorcy>
+        <NIPOdbiorcy>552-151-68-49</NIPOdbiorcy>
+        <dataWystawienia>2020-11-17</dataWystawienia>
+        <dataSprzedazy>2020-11-17</dataSprzedazy>
+        <nrFaktury>1-17/11/2020</nrFaktury>
+        <tytulPozycji>Informatyczne narzÄ™dzia edukacyjne</tytulPozycji>
+        <liczbaSztuk>1.0</liczbaSztuk>
+        <cenaJednostkowa>1Â 593,50 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>366,50 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>1Â 593,50 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>1Â 960,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>1Â 593,50 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>1Â 960,00 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-11-25</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>1-25/11/2020</nrFaktury>
+        <tytulPozycji>Prace zwiÄ…zane z utrzymaniem aplikacji Aplikacja sprzedaĹĽowa w paĹşdzierniku 2020, zgodnie z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>8.95125</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>2Â 058,79 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>8Â 951,25 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>11Â 010,04 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>34Â 030,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>41Â 856,90 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-11-25</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>1-25/11/2020</nrFaktury>
+        <tytulPozycji>Prace zwiÄ…zane z utrzymaniem aplikacji Sellcar w paĹşdzierniku 2020, zgodnie z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>3.4175</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>786,03 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>3Â 417,50 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>4Â 203,53 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>34Â 030,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>41Â 856,90 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-11-25</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>1-25/11/2020</nrFaktury>
+        <tytulPozycji>Prace zwiÄ…zane z utrzymaniem systemu Aplikacja GPS w paĹşdzierniku 2020, zgodnie z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>14.5625</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>3Â 349,38 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>14Â 562,50 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>17Â 911,88 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>34Â 030,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>41Â 856,90 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-11-25</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>1-25/11/2020</nrFaktury>
+        <tytulPozycji>Prace zwiÄ…zane z utrzymaniem systemu Aplikacja ubezpieczeniowa w paĹşdzierniku 2020, zgodnie z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>1.8125</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>416,88 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>1Â 812,50 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>2Â 229,38 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>34Â 030,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>41Â 856,90 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-11-25</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>1-25/11/2020</nrFaktury>
+        <tytulPozycji>Prace zwiÄ…zane z utrzymaniem systemu Aplikacja windykacyjna w paĹşdzierniku 2020, zgodnie z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>0.5625</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>129,38 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>562,50 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>691,88 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>34Â 030,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>41Â 856,90 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-11-25</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>1-25/11/2020</nrFaktury>
+        <tytulPozycji>Prace zwiÄ…zane z utrzymaniem systemu Ces w paĹşdzierniku 2020, zgodnie z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>1.21875</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>280,31 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>1Â 218,75 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>1Â 499,06 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>34Â 030,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>41Â 856,90 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-11-25</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>1-25/11/2020</nrFaktury>
+        <tytulPozycji>Prace zwiÄ…zane z utrzymaniem usĹ‚ugi eFaktura w paĹşdzierniku 2020, zgodnie z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>0.20625</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>47,44 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>206,25 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>253,69 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>34Â 030,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>41Â 856,90 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-11-25</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>1-25/11/2020</nrFaktury>
+        <tytulPozycji>Prace zwiÄ…zane z utrzymaniem â€“ wyceny w paĹşdzierniku 2020, zgodnie z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>3.29875</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>758,71 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>3Â 298,75 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>4Â 057,46 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>34Â 030,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>41Â 856,90 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-11-25</dataWystawienia>
+        <dataSprzedazy>2020-10-30</dataSprzedazy>
+        <nrFaktury>2-25/11/2020</nrFaktury>
+        <tytulPozycji>Prace zwiÄ…zane z utrzymaniem infrastruktury w paĹşdzierniku 2020, zgodnie z zaĹ‚Ä…cznikiem</tytulPozycji>
+        <liczbaSztuk>12.775</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>2Â 938,25 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>12Â 775,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>15Â 713,25 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>12Â 775,00 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>15Â 713,25 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-11-25</dataWystawienia>
+        <dataSprzedazy>2020-11-25</dataSprzedazy>
+        <nrFaktury>3-25/11/2020</nrFaktury>
+        <tytulPozycji>Prace rozwojowe - #68697 : Filtry</tytulPozycji>
+        <liczbaSztuk>18.25</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>4Â 197,50 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>18Â 250,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>22Â 447,50 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>85Â 833,75 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>105Â 575,51 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-11-25</dataWystawienia>
+        <dataSprzedazy>2020-11-25</dataSprzedazy>
+        <nrFaktury>3-25/11/2020</nrFaktury>
+        <tytulPozycji>Prace rozwojowe - #69084 :Nowe pop-upy i frame w gĂłrnej belce Selltoll</tytulPozycji>
+        <liczbaSztuk>2.5</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>575,00 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>2Â 500,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>3Â 075,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>85Â 833,75 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>105Â 575,51 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+    <Faktura>
+        <nazwaOdbiorcy>Firma1 Sp. z o.o</nazwaOdbiorcy>
+        <adresOdbiorcy>AL. A. Mickiewicza 141, 31-127 KrakĂłw</adresOdbiorcy>
+        <NIPOdbiorcy>113-29-95-753 </NIPOdbiorcy>
+        <dataWystawienia>2020-11-25</dataWystawienia>
+        <dataSprzedazy>2020-11-25</dataSprzedazy>
+        <nrFaktury>3-25/11/2020</nrFaktury>
+        <tytulPozycji>Prace rozwojowe - #69169 :PodziaĹ‚ ruchu na iframe/zalogowany/anonimowy </tytulPozycji>
+        <liczbaSztuk>3.0</liczbaSztuk>
+        <cenaJednostkowa>1Â 000,00 zĹ‚</cenaJednostkowa>
+        <stawkaPodatku>23.0</stawkaPodatku>
+        <kwotaPodatku>690,00 zĹ‚</kwotaPodatku>
+        <cenaNettopozycji>3Â 000,00 zĹ‚</cenaNettopozycji>
+        <cenaBruttopozycji>3Â 690,00 zĹ‚</cenaBruttopozycji>
+        <cenaNettofakturylacznie>85Â 833,75 zĹ‚</cenaNettofakturylacznie>
+        <cenaBruttofakturylacznie>105Â 575,51 zĹ‚</cenaBruttofakturylacznie>
+    </Faktura>
+</Faktury>

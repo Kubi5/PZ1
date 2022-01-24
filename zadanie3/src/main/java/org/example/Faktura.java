@@ -11,13 +11,13 @@ import lombok.Setter;
 @Getter
 @Setter
 @XmlAccessorType(XmlAccessType.FIELD)
-public class FakturaXLSX {
+public class Faktura {
 
     private String nazwaOdbiorcy;
     private String adresOdbiorcy;
     private String NIPOdbiorcy;
-    private Date dataWystawienia;
-    private Date dataSprzedazy;
+    private String dataWystawienia;
+    private String dataSprzedazy;
     private String nrFaktury;
     private String tytulPozycji;
     private String liczbaSztuk;
@@ -28,5 +28,4 @@ public class FakturaXLSX {
     private String cenaBruttopozycji;
     private String cenaNettofakturylacznie;
     private String cenaBruttofakturylacznie;
-
 }
