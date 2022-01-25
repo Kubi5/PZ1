@@ -6,7 +6,7 @@ import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
 import java.io.*;
 import java.util.ArrayList;
-
+/** This class is parsing XLSX format to XML */
 public class fromCSVtoXML {
     String stringIn;
     String stringOut;
@@ -15,7 +15,7 @@ public class fromCSVtoXML {
     Iterable<CSVRecord> records;
     public ArrayList<Faktura> pomocniczaLista = new ArrayList<>();
     boolean isHeader = true;   //checks if its header
-
+/** Constructor */
     public fromCSVtoXML(String stringIn,String stringOut) throws IOException {
         this.stringIn = stringIn;
         this.stringOut = stringOut;
@@ -25,14 +25,14 @@ public class fromCSVtoXML {
                 .parse(in);
     }
     public ZbiorFaktur zbiorFaktur = new ZbiorFaktur();
-
+    /** This method is marshalling zbiorFaktur object into new XML file */
     public void marshalling() throws JAXBException {
         JAXBContext context = JAXBContext.newInstance(ZbiorFaktur.class);
         Marshaller marshaller = context.createMarshaller();
         marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT,true);
         marshaller.marshal(zbiorFaktur, new File("C:\\Users\\FiFi\\PZ1\\zadanie3\\" + stringOut));
     }
-
+    /** This method is reading data from CSV file and setting Faktura's fields*/
     public void readingData() throws JAXBException {
 
         for (CSVRecord record : records) {

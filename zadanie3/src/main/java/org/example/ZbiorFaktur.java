@@ -5,6 +5,8 @@ import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 import java.util.ArrayList;
 
+
+/** Zbior faktur is a class which is being marshalled, it carry Faktura's set only */
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlRootElement(name="Faktury")
 public class ZbiorFaktur {

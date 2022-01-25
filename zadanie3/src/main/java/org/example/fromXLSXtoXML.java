@@ -12,13 +12,14 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Iterator;
 
+/** This class is parsing XLSX format to XML */
 public class fromXLSXtoXML {
     FileInputStream file;
     XSSFWorkbook workbook;
     XSSFSheet sheet;
     String inString;
     String outString;
-
+/** Constructor */
     public fromXLSXtoXML(String inString, String outString) throws IOException {
         this.inString = inString;
         this.outString = outString;
@@ -29,14 +30,14 @@ public class fromXLSXtoXML {
 
     ArrayList<Faktura> pomocniczalista = new ArrayList<>();
     ZbiorFaktur zbiorFaktur = new ZbiorFaktur();
-
+/** This method is marshalling zbiorFaktur object into new XML file */
     public void marshalling() throws JAXBException {
         JAXBContext context = JAXBContext.newInstance(ZbiorFaktur.class);
         Marshaller marshaller = context.createMarshaller();
         marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT,true);
         marshaller.marshal(zbiorFaktur, new File("C:\\Users\\FiFi\\PZ1\\zadanie3\\" + outString));
     }
-
+/** This method is reading data from XLSX file and setting Faktura's fields */
     public void readingData() throws IOException, JAXBException {
         Iterator<Row> rowIterator = sheet.iterator();
         rowIterator.next();

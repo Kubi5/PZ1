@@ -8,21 +8,21 @@ import javax.xml.bind.JAXBException;
 import static org.junit.Assert.*;
 import java.io.IOException;
 
-
+/** This class tests parsing from CSV to XML */
 public class fromCSVtoXMLTest {
-    
+    fromCSVtoXML fromCSVtoXML;
     public fromCSVtoXMLTest() throws IOException {
     }
     @Before
     public void setUp() throws IOException, JAXBException {
-        
+        fromCSVtoXML = new fromCSVtoXML("faktury-sprzedazowe-test.csv", "Ugabuga.xml");
+        fromCSVtoXML.readingData();
     }
     @Test
+    //PSUJA SIE POLSKIE ZNAKI
     public void isReadingFromCSVgood() throws IOException, JAXBException {
-        fromCSVtoXML fromCSVtoXML = new fromCSVtoXML("faktury-sprzedazowe-test.csv", "Ugabuga.xml");
-        fromCSVtoXML.readingData();
         assertEquals("Firma5 SP. Z O.O.",fromCSVtoXML.zbiorFaktur.getLista().get(0).getNazwaOdbiorcy());
-        //assertEquals("UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW",fromCSVtoXML.zbiorFaktur.getLista().get(0).getAdresOdbiorcy());
+        //assertEquals("UL. FELIKSA RADWANSKIEGO 15/1, 30-065 KRAKÓW",fromCSVtoXML.zbiorFaktur.getLista().get(0).getAdresOdbiorcy());
         assertEquals("634-27-26-447",fromCSVtoXML.zbiorFaktur.getLista().get(0).getNIPOdbiorcy());
         assertEquals("2020-10-09",fromCSVtoXML.zbiorFaktur.getLista().get(0).getDataWystawienia());
         assertEquals("2020-10-09",fromCSVtoXML.zbiorFaktur.getLista().get(0).getDataSprzedazy());

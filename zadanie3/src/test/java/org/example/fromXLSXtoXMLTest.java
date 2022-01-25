@@ -9,7 +9,7 @@ import javax.xml.bind.JAXBException;
 import static org.junit.Assert.*;
 
 import java.io.*;
-
+/** This class tests parsing from XLSX to XML */
 public class fromXLSXtoXMLTest {
     FileInputStream file = new FileInputStream("C:\\Users\\FiFi\\PZ1\\zadanie3\\faktury-sprzedazowe-test.xlsx");
     XSSFWorkbook workbook = new XSSFWorkbook(file);
